@@ -148,14 +148,18 @@ hr.small {
     margin: 5px 5px 0 0;
 }
 
-/* Header */
+/* inicio - logo jp */
+.inicio {
+    color:#252525;
+}
 
+/* Header - chess background */
 .header {
     display: table;
     position: relative;
     width: 100%;
     height: 100%;
-    background: url(../img/inicio_ajedrez.jpg) no-repeat center center scroll;
+    background: url(../img/chess_background.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
